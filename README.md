@@ -12,4 +12,7 @@ M-x ielm
 
 # copy paste contents from
 https://raw.githubusercontent.com/astrauka/emacs-config/master/packages.el
+
+git submodule init
+git submodule update
 ```
